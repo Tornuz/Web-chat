@@ -36,3 +36,12 @@ Step 1: Open browser and put down the localhost along with the port mentioned in
 Step 2: Open another window and put the same localhost as that of previous window.
 
 Step 3: Now just login and start sending messages.
+
+## Presentation
+### Screens
+
+![chat](https://user-images.githubusercontent.com/47451094/137640073-70cbae34-b520-44ac-bfd7-8bdef13ef5f4.PNG)
+
+<br>
+
+![chit](https://user-images.githubusercontent.com/47451094/137640077-091b6569-6002-4e8b-860f-1cd7a605649e.PNG)
